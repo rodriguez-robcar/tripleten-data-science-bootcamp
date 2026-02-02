@@ -1,4 +1,5 @@
-# Descripción del proyecto
+# $\textcolor{blue}{Sprint\ 1\ -\ Python\ básico\}$
+### Descripción del proyecto
 La empresa de comercio electrónico Store 1 está preparando el lanzamiento de un nuevo Programa de Fidelización de Clientes. Para ello, necesita analizar su base de clientes y asegurarse de que los datos estén completos, limpios y organizados.
 
 El objetivo es diseñar campañas personalizadas y optimizar futuras acciones de marketing. Para lograrlo, necesita segmentar a los clientes según variables como la edad, el historial de compras y las categorías de productos adquiridos.
@@ -19,6 +20,7 @@ Los datos brindados por la empresa Store 1 tienen el formato de una lista de Pyt
 4. categorias_fav_low: Categorías favoritas de los artículos que compró el usuario, como ELECTRÓNICA, DEPORTE, LIBROS, etc.
 5. gasto_por_categoria: Una lista de números enteros que indican la cantidad total gastada en cada una de las categorías favoritas.
 
+# $\textcolor{blue}{Sprint\ 1\ -\ Python\ Basics\}$
 # Project Description
 
 The e-commerce company Store 1 is preparing to launch a new Customer Loyalty Program. To support this initiative, the company needs to analyze its customer database and ensure that the data is complete, clean, and well organized.
